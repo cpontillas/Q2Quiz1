@@ -1,0 +1,49 @@
+.sour-gummy {
+  font-family: "Sour Gummy", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "width" 100;
+}
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+h1{
+	color: indianred;
+	text-align: center;
+	background-color: lightblue;
+	margin-top: 30px;
+	margin-left: 10%;
+	margin-right: 10%;
+	border-radius: 15px;
+	font-family: Sour Gummy;
+}
+
+body {
+	background-color: lightyellow;
+	padding: 10px;
+	font-family: Sour Gummy;
+}
+
+img {
+	width: 135px;
+}
+
+div {
+	text-align: center;
+	border: 3px solid white;
+	border-radius: 15px;
+	padding: 0px;
+	margin-bottom: 0px;
+	background-color: white;
+	font-family: Sour Gummy;
+}
+
+p {
+	text-align: center;
+	margin: 20px;
+}
